@@ -1,0 +1,491 @@
+body{
+    font-family: roboto;
+}
+header{
+    display: flex;
+    gap: 50px;
+}
+
+#header1{
+    
+}
+
+#button1{
+    background-color: rgb(255, 94, 0);
+    width: 90px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+.header:hover{
+color:rgb(255, 94, 0) ;
+}
+
+.img1:hover{
+width: 70px;
+height: 70px;
+transition: 1s;
+}
+
+.img2:hover{
+width: 90px;
+height: 90px;
+transition: 1s;
+}
+
+.buttonw:hover{
+background-color: rgb(255, 38, 0);
+}
+
+
+
+#main{
+padding-top: 200px;
+background-image: url(https://img.freepik.com/premium-vector/free-vector-3d-illustration-delivery-man-scooter_883906-2151.jpg);
+ background-repeat: no-repeat;
+ background-size: 50%;
+ width: 100x;
+ height: 650px;
+ background-position: 600px;
+
+
+}
+#button2{
+    background-color: rgb(252, 97, 0);
+    width: 130px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+#pp{
+    color: gray;
+}
+#applink{
+    display: flex;
+    gap: 50px;
+}
+#org{
+    color: orange;
+}
+#f{
+    display: flex;
+    gap: 5px;
+    padding-left: 600px;
+    
+}
+
+#buttons{
+    text-align: center;
+}
+#b1{
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+#b2{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+#b3{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+#b4{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+#b4{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+#b5{
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+#bur1{
+  box-shadow: 5px 5px 20px black;
+    border-radius: 15px;
+width: 150px; 
+text-align: center;
+}
+    #fr{
+        padding-top: 20px
+    }
+#fr2{
+    padding-top: 20px;
+}
+#burgers{
+    display: flex;
+    gap: 30px;
+    padding-left: 300px;
+    padding-top: 50px;
+    
+}
+#bur2{
+    box-shadow:5px 5px 20px black ;
+    border-radius: 15px;
+    text-align: center;
+}
+#br1{
+    background-color: rgb(255, 98, 0);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+#br2{
+    background-color: rgb(255, 98, 0);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+
+#br3{
+    background-color: rgb(255, 98, 0);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 70px;
+}
+
+#br4{
+    background-color: rgb(255, 98, 0);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 70px;
+}
+#br5{
+    background-color: rgb(255, 98, 0);
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 35px;
+}
+#bur3{
+    box-shadow:5px 5px 20px black ;
+    border-radius: 15px;
+    text-align: center; 
+}
+#bur4{
+    box-shadow:5px 5px 20px black ;
+    border-radius: 15px;
+    text-align: center;
+}
+#bur4{
+    box-shadow:5px 5px 20px black ;
+    border-radius: 15px;
+    text-align: center;
+}
+#bur5{
+    box-shadow:5px 5px 20px black ;
+    border-radius: 15px;
+    text-align: center;
+}
+#fr3{
+    padding-top: 20px;
+}
+#fr4{
+    padding-top: 20px;
+}
+#fr5{
+    padding-top: 20px;
+}
+#in1{
+    background-color: rgb(255, 89, 0);
+}
+#slayd{
+    display: flex;
+justify-content: center;
+padding-top: 50px;
+}
+h6{
+    text-align: center;
+}
+
+#info1{
+    display: flex;
+    gap: 20px;
+    padding-left: 900px;
+}
+#info2{
+    display: flex;
+    gap: 20px; 
+    padding-left: 900px;
+}
+#info3{
+    display: flex;
+    gap: 20px;
+    padding-left: 900px;
+}
+
+#dostavka{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6453nRjFcWRIBaFYL_al7L_FYxYRM0bqjg&s);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    width: 1300px;
+    height: 900px;
+}
+#info4{
+    padding-left: 900px;
+}
+#provide1{
+padding-left: 900px;
+color: rgb(137, 130, 130);
+}
+#let{
+    background-color: rgb(255, 89, 0);
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    margin-left: 900px;
+    margin-top: 40px;
+}
+#mb1{
+    background-color: rgb(255, 89, 0);
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+#time{
+    display: flex;
+    gap: 30px;
+}
+#m1{
+    background-color: whitesmoke;
+    width: 200px;
+    height: 350px;
+    border-radius: 15px;
+
+}
+#mb2{
+    background-color: rgb(255, 89, 0);
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;  
+}
+#m1{
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 3px 2px 2px black;
+}
+#flex1{
+    display:flex;
+    gap: 50px;
+    justify-content: center;
+    
+}
+
+#ee{
+    margin-top: 20px;
+}
+
+#ee2{
+    margin-top: 20px;
+}
+#m2{
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 3px 2px 2px black;  
+}
+
+#m3{
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 3px 2px 2px black;  
+}
+
+#ee3{
+    margin-top: 20px;   
+}
+
+#mb3{
+    background-color: rgb(255, 89, 0);
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;  
+}
+
+#time2{
+display: flex;
+}
+#time3{
+    display: flex;
+}
+
+#flex2{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+
+}
+#m4{
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 3px 2px 2px black;  
+}
+#time4{
+    display: flex;
+}
+#mb4{
+    background-color: rgb(255, 89, 0);
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;    
+}
+
+#m5{
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 3px 2px 2px black;   
+}
+#time5{
+    display: flex;
+}
+#mb5{
+    background-color: rgb(255, 89, 0);
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    color: white; 
+}
+#m6{
+    background-color: whitesmoke;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: 3px 2px 2px black; 
+}
+#time6{
+    display: flex;   
+}
+
+#mb6{
+    background-color: rgb(255, 89, 0);
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    color: white;   
+}
+
+#appp{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6XT79OmpOfwWh-AqflhRerV7QlS6I4wIyLg&s);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 900px;
+    background-position: 800px ;
+}
+
+#clients{
+    background-image: url(https://thumbs.dreamstime.com/b/young-pretty-woman-black-burger-her-hands-dark-grey-background-studio-young-pretty-woman-black-burger-her-101421298.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 900px;
+}
+#text{
+    padding-left: 800px;
+}
+
+#emails{
+    display: flex;
+    gap: 10px;
+}
+
+#lalo{
+    width: 700px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 200px;
+}
+#subscribe{
+    background-color: rgb(255, 47, 0);
+    text-align: center;
+    color: white;
+    height: 200px;
+}
+
+#sub2{
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+}
+
+#last{
+    display: flex;
+    gap: 100px;
+   padding-left: 200px;
+}
+
+#privacy{
+    padding-left: 900px;
+    display: flex;
+    gap: 50px;
+}
+
+#posledniy{
+    display: flex;
+}
+
+
+@media screen and (max-width: 500px) {
+    .header {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .header1 {
+      float: none;
+      padding-left: 1px;
+    }
+    #text{
+        text-align: start;
+    }
+}  
